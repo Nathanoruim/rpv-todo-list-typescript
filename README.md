@@ -8,10 +8,10 @@ Este projeto é educaional e visa inserir os alunos do Curso Técnico em Desenvo
 
 ### Issues criadas 
 
-[Configuração Projeto React - To Do List](https://github.com/kelyacoosta/rpv-todo-list-typescript-master/issues/1) - ✅ Finalizado
+[Configuração Projeto React - To Do List](https://github.com/Nathanoruim/rpv-todo-list-typescript/issues/2) - ✅ Finalizado
 
-[Layout Inicial](https://github.com/kelyacoosta/rpv-todo-list-typescript-master/issues/2) - ⚠️ A desenvolver
+[Layout Inicial](https://github.com/Nathanoruim/rpv-todo-list-typescript/issues/3) - ✅ Finalizado
  
-[Validações de Entrada](https://github.com/kelyacoosta/rpv-todo-list-typescript-master/issues/3) - ⚠️A desenvolver
+[Validações de Entrada](https://github.com/Nathanoruim/rpv-todo-list-typescript/issues/4) - ✅ Finalizado
 
-[Informações de Cadastro](https://github.com/kelyacoosta/rpv-todo-list-typescript-master/issues/4) - ⚠️A desenvolver
+[Informações de Cadastro](https://github.com/Nathanoruim/rpv-todo-list-typescript/issues/1) - ⚠️A desenvolver
